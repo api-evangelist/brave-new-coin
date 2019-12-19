@@ -1,0 +1,53 @@
+{
+    "name": "Brave New Coin",
+    "description": "BNC delivers cryptocurrency market data, analysis, blockchain industry resources and a wide range of crypto data solutions.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/21107-bravenewcoin-com.jpg",
+    "tags": [
+        "api provider",
+        "blockchain",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/brave-new-coin\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Brave New Coin",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/21107-bravenewcoin-com.jpg",
+            "humanURL": "https:\/\/bravenewcoin.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/brave-new-coin-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Curated Source",
+            "url": "http:\/\/bravenewcoin.com\/news\/visas-blockchain-use-sets-example-for-docusigns-50-million-users\/"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/bravenewcoin.com"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/techemy-ltd"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/bravenewcoin"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/bravenewcoin.com"
+        }
+    ]
+}
